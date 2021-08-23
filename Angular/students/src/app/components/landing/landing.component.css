@@ -1,0 +1,37 @@
+
+    button{
+        font-size: 30px;
+        padding-left: 10px 20px;
+        border-radius: 10px;
+        margin: 20px;
+        background-color: #accee7;
+        text-align:start;
+        font-family:monospace;
+        cursor: pointer;
+        transition: 0.8s;
+    }
+.text-center{
+    text-align: center;
+    margin-bottom: 400px;
+    
+    
+}
+.btn:hover{
+   color:white;
+}
+body{
+    background-image: url('https://images.unsplash.com/photo-1497864149936-d3163f0c0f4b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGVkdWNhdGlvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80') repeat 0 0;
+  }
+  h1{
+      text-align: center;
+      margin-top: 100px;
+      font-family:monospace;
+      font-size: 50px;
+
+  }
+  p{
+      align-items: center;
+      font-size: 50px;
+  }
+
+
